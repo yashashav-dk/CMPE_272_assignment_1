@@ -2,7 +2,7 @@
 
 **Members:**
 
-* Mohit Bandare
+* Mohit Barade
 * Anupama Singh
 * Pranav Trivedi
 * Yashashav Devalapalli Kamalraj
