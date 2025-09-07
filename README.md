@@ -1,17 +1,8 @@
-# CMPE 272 Assignment 1 - Microservices - Team 1
-
-**Members:**
-
-* Mohit Barade
-* Anupama Singh
-* Pranav Trivedi
-* Yashashav Devalapalli Kamalraj
-
----
+# CMPE 272 Assignment 1 - Microservices - Yashashav Devalapalli Kamalraj
 
 ## Overview
 
-We built a **microservices-based system** with two services:
+We are tasked to build a **microservices-based system** with two simple services:
 
 1. **User Service (`user_service.py`)**
    * Manages user data (name, email).
