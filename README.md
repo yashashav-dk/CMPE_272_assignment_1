@@ -2,8 +2,8 @@
 
 **Members:**
 
-* Mohit Bandare 
-* Anupama Singh 
+* Mohit Bandare
+* Anupama Singh
 * Pranav Trivedi
 * Yashashav Devalapalli Kamalraj
 
@@ -43,8 +43,13 @@ Example flow:
 
 ## Screenshots Reference
 
+![API testing for users and orders](screenshot_2.png)
+
 * **Screenshot 1:** Shows curl tests for both services:
   * Fetching users (Alice, Bob).
   * Creating a new order (Tablet for user 1).
   * Fetching an order with embedded user details.
+
+![Services Running](screenshot_1.png)
+
 * **Screenshot 2:** Shows both services running simultaneously in separate terminals (`user_service` on port 5001 and `order_service` on port 5002), handling requests successfully.
